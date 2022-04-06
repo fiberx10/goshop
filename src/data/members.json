@@ -1,0 +1,225 @@
+[
+  {
+    "name": "Aziz Derouich",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Génie Electrique et Informatique"
+  },
+  {
+    "name": "Mohammed Reda Benbrahim",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Electronique"
+  },
+  {
+    "name": "Abdennebi Talbi",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Génie Industriel "
+  },
+  {
+    "name": "Abdellah Khatory",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Automatisme/Informatique Industrielle"
+  },
+  {
+    "name": "Driss Amegouz",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Génie Industriel "
+  },
+  {
+    "name": "Souad Sebti",
+    "establishment": "EST",
+    "grade": "PESA",
+    "specialty": "Automatique"
+  },
+  {
+    "name": "Youssef Mourad",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Electrochimie"
+  },
+  {
+    "name": "Said Moutahari ",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Génie Industriel "
+  },
+  {
+    "name": "Samir Abarou ",
+    "establishment": "EST",
+    "grade": "PH",
+    "specialty": "Génie mécanique "
+  },
+  {
+    "name": "Abderrahman Alaoui Ismaili",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Sciences de Gestion "
+  },
+  {
+    "name": "Ismail Alaoui Sossey",
+    "establishment": "EST",
+    "grade": "PESA",
+    "specialty": "Génie Industriel"
+  },
+  {
+    "name": "Ahmed Bouklata ",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Sciences de Gestion "
+  },
+  {
+    "name": "Mouhssine Chahbouni",
+    "establishment": "EST",
+    "grade": "PESA",
+    "specialty": "Génie Mécanique"
+  },
+  {
+    "name": "Driss Dafir ",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Génie Matériaux  "
+  },
+  {
+    "name": "Rachid El Bachtiri ",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Génie électrique - Energie renouvelable"
+  },
+  {
+    "name": "Mustapha El Gouri ",
+    "establishment": "EST",
+    "grade": "PH",
+    "specialty": "Polymères"
+  },
+  {
+    "name": "Karima El Hammoumi",
+    "establishment": "EST",
+    "grade": "PH",
+    "specialty": "Génie Electrique"
+  },
+  {
+    "name": "Mohamed El Hatri ",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Mathématique "
+  },
+  {
+    "name": "Amina El Idrissi Tissafi",
+    "establishment": "EST",
+    "grade": "PH",
+    "specialty": "Marketing"
+  },
+  {
+    "name": "Fouad Jawab",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Génie Industriel et logistique"
+  },
+
+  {
+    "name": "Abdellatif Loukili ",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Génie des Procédés"
+  },
+  {
+    "name": "Mohammed Loukili",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Chimie, Eau et Environnement"
+  },
+  {
+    "name": "Fatima Zahra Madhat",
+    "establishment": "EST",
+    "grade": "PH",
+    "specialty": "Sciences de Gestion"
+  },
+  {
+    "name": "Mustapha Moha Ouchane",
+    "establishment": "EST",
+    "grade": "PES",
+    "specialty": "Physique "
+  },
+  {
+    "name": "Abderrahmane Ouddasser",
+    "establishment": "EST",
+    "grade": "PH",
+    "specialty": "Economie - Gestion"
+  },
+  {
+    "name": "Zakia Errabih",
+    "establishment": "EST",
+    "grade": "PH",
+    "specialty": "Sciences de Gestion "
+  },
+  {
+    "name": "Mourad Rehioui ",
+    "establishment": "EST",
+    "grade": "PESA",
+    "specialty": "Sciences de Gestion"
+  },
+  {
+    "name": "Tariq Riouch  ",
+    "establishment": "EST",
+    "grade": "PESA",
+    "specialty": "Génie Electrique"
+  },
+  {
+    "name": "Ahmed Hanafi ",
+    "establishment": "EST",
+    "grade": "PESA",
+    "specialty": "Génie Electrique et Informatique"
+  },
+  {
+    "name": "Mohammed Taoussi",
+    "establishment": "EST",
+    "grade": "PESA",
+    "specialty": "Génie Electrique"
+  },
+  {
+    "name": "Arif Jabir",
+    "establishment": "EST",
+    "grade": "PESA",
+    "specialty": "Génie Industriel et logistique"
+  },
+  {
+    "name": "M'hamedel Omari",
+    "establishment": "EST",
+    "grade": "PESA",
+    "specialty": "Mathématiques"
+  },
+  {
+    "name": "Sanae El Maliki",
+    "establishment": "EST",
+    "grade": "PESA",
+    "specialty": "Economie et Gestion "
+  },
+  {
+    "name": "Abdelaziz Fri",
+    "establishment": "EST",
+    "grade": "PESA",
+    "specialty": "Génie Electrique "
+  },
+  {
+    "name": "Otman Jai ",
+    "establishment": "EST",
+    "grade": "PESA",
+    "specialty": "Physique Appliquée"
+  },
+  {
+    "name": "Zakaria Moutakki ",
+    "establishment": "EST",
+    "grade": "PESA",
+    "specialty": "Traitement de signal & systèmes embarqués"
+  },
+  {
+    "name": "Rabie Ben Abbou",
+    "establishment": "EST",
+    "grade": "PESA",
+    "specialty": "Sciences de gestion"
+  }
+]

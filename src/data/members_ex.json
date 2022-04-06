@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Ahmed Lagrioui  ",
+    "establishment": "Ecole Nationale des Arts et Métiers Meknès ",
+    "grade": "PH",
+    "specialty": "Génie Electrique",
+    "Associate": "Corps pédagogique "
+  },
+  {
+    "name": "Jamal Bouchnaif ",
+    "establishment": "Ecole Supérieure de Technologie Oujda ",
+    "grade": "PH",
+    "specialty": "Génie Electrique ",
+    "Associate": "Corps pédagogique "
+  },
+  {
+    "name": "El Mostafa Ziani ",
+    "establishment": "Ecole Supérieure de Technologie Oujda ",
+    "grade": "PES",
+    "specialty": "Automatique",
+    "Associate": "Corps pédagogique"
+  },
+  {
+    "name": "Imane IBN El Farouk ",
+    "establishment": "ENCG EL JADIDA  ",
+    "grade": "PESA",
+    "specialty": "Supply Chain Management  ",
+    "Associate": "Corps pédagogique "
+  },
+  {
+    "name": "Saad LissaneElhaq  ",
+    "establishment": "ENSEM - Casablanca ",
+    "grade": "PES",
+    "specialty": "Génie Industriel et logistique ",
+    "Associate": "Corps pédagogique "
+  },
+  {
+    "name": "Mohamed Salhi ",
+    "establishment": "ENSAM; UMI; Meknès",
+    "grade": "PH",
+    "specialty": "Génie électrique et énergies renouvelables  ",
+    "Associate": "Corps pédagogique "
+  },
+  {
+    "name": "Houcine Chafouk",
+    "establishment": "IRSEEM, ESIGELEC, Université Normandie, Rouen, France  ",
+    "grade": "Professeur",
+    "specialty": "Automatique",
+    "Associate": "Corps pédagogique"
+  },
+  {
+    "name": "Abderrahman El Mhamedi  ",
+    "establishment": "IUT Montreuil",
+    "grade": "PESA",
+    "specialty": "Génie Industriel et logistique   ",
+    "Associate": "Corps pédagogique "
+  },
+  {
+    "name": "Abderrahman El Mhamedi  ",
+    "establishment": "SOURIAU-MAROC, Tanger ",
+    "grade": "Directeur Qualité ",
+    "specialty": "Qualité",
+    "Associate": "Corps socioéconomique"
+  }
+]
